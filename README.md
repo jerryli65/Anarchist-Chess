@@ -18,7 +18,7 @@ This project is not accepting contributions at this time. This project is still 
 If you run into an error or bug, or have any questions or concerns, please open an [Issue.](https://github.com/jerryli65/Anarchist-Chess/issues "Issue.")
 
 ## Credits
-# Original File
+Original File
 * The original file was downloaded from a user named ransurf: https://github.com/ransurf
 * I refactored most of the code and cleaned up the organization.
 * I also fixed a few annoying bugs, such as castling rules and illegal responses to "check"
